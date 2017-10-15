@@ -1,0 +1,26 @@
+header {
+  background: blue; }
+
+nav {
+  background: red; }
+
+span {
+  border: 1px solid white; }
+
+body {
+  background: #ccc; }
+
+p {
+  background: black;
+  color: #ccc; }
+
+body {
+  font-size: 62.5%; }
+
+.container {
+  width: 100%; }
+
+.col-4 {
+  width: 25%; }
+
+/*# sourceMappingURL=style.css.map */
